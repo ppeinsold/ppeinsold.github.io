@@ -1,0 +1,9 @@
+# Linux / macOS cron alternative to install-macos.sh.
+# Every 3 minutes, all day; check.js exits instantly outside ICP_WINDOWS.
+*/3 * * * * /bin/bash /ABSOLUTE/PATH/TO/cita-checker/run.sh
+
+# If you would rather encode the schedule in cron itself, drop ICP_WINDOWS
+# (set it empty) and use:
+#45-59/2 7 * * *  /bin/bash /ABSOLUTE/PATH/TO/cita-checker/run.sh
+#0-30/2  8 * * *  /bin/bash /ABSOLUTE/PATH/TO/cita-checker/run.sh
+#0 13,17,20 * * * /bin/bash /ABSOLUTE/PATH/TO/cita-checker/run.sh

@@ -1,0 +1,19 @@
+{
+  "name": "cita-checker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Watches icpplus (Cita Previa Extranjeria) for free appointments and sends an email when one shows up.",
+  "main": "check.js",
+  "scripts": {
+    "check": "node check.js",
+    "check:force": "node check.js --force",
+    "offices": "node check.js --list-offices",
+    "test-email": "node check.js --test-email",
+    "postinstall": "playwright install chromium"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.14",
+    "playwright": "^1.47.0"
+  },
+  "engines": { "node": ">=20.6" }
+}

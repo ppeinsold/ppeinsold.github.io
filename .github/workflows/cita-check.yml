@@ -1,0 +1,87 @@
+# Appointment watcher for icpplus (Cita Previa Extranjeria).
+#
+# HEADS UP: the booking host blocks datacenter traffic. GitHub-hosted runners
+# (Azure, mostly US) get a TCP reset / HTTP 403 before the page even loads, so
+# this workflow is only useful with a SELF-HOSTED runner on a Spanish
+# connection. The preflight step below says so clearly instead of failing with
+# a confusing timeout. For a normal setup, run the checker on your own machine
+# (see cita-checker/README.md).
+name: cita-check
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub cron is UTC and routinely runs several minutes late.
+    # 05:45-06:30 UTC = 07:45-08:30 CEST.
+    - cron: '45,51,57 5 * * *'
+    - cron: '3,9,15,21,27 6 * * *'
+    - cron: '0 11,15,18 * * *'
+
+concurrency:
+  group: cita-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    # Change to your self-hosted Spanish runner, e.g. [self-hosted, spain]
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: cita-checker
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Preflight - can this runner even reach the site?
+        run: |
+          code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 30 \
+            https://icp.administracionelectronica.gob.es/icpplus/index || echo 000)
+          echo "icpplus responded: $code"
+          if [ "$code" = "000" ] || [ "$code" = "403" ]; then
+            echo "::error::This runner's IP is blocked by icpplus (got $code). Use a self-hosted runner in Spain or run the checker locally."
+            exit 1
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: cita-checker/package-lock.json
+
+      - run: npm ci --ignore-scripts
+      - run: npx playwright install --with-deps chromium
+
+      - name: Restore cooldown state
+        uses: actions/cache@v4
+        with:
+          path: cita-checker/state.json
+          key: cita-state-${{ github.run_id }}
+          restore-keys: cita-state-
+
+      - name: Check availability
+        env:
+          ICP_NIE: ${{ secrets.ICP_NIE }}
+          ICP_NOMBRE: ${{ secrets.ICP_NOMBRE }}
+          ICP_PROVINCIA: Barcelona
+          ICP_TRAMITE: POLICIA - CERTIFICADO DE REGISTRO DE CIUDADANO DE LA UE
+          ICP_WINDOWS: ''          # the cron schedule above already decides when
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+        run: |
+          set +e
+          node check.js --force
+          code=$?
+          set -e
+          # 10 = appointment found (the email already went out), 0 = nothing free.
+          if [ $code -eq 10 ]; then exit 0; fi
+          exit $code
+
+      - name: Upload debug pages
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cita-debug-${{ github.run_id }}
+          path: cita-checker/debug/
+          if-no-files-found: ignore
+          retention-days: 5
