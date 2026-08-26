@@ -51,6 +51,13 @@ const CFG = {
     from: env('MAIL_FROM'),
     to:   env('MAIL_TO'),
   },
+  push: {
+    ntfyServer:    env('NTFY_SERVER', 'https://ntfy.sh'),
+    ntfyTopic:     env('NTFY_TOPIC'),
+    ntfyToken:     env('NTFY_TOKEN'),
+    pushoverToken: env('PUSHOVER_TOKEN'),
+    pushoverUser:  env('PUSHOVER_USER'),
+  },
 };
 
 const STATE_FILE = path.join(ROOT, 'state.json');
@@ -304,16 +311,66 @@ async function clickSolicitarCita(page) {
 
 async function sendMail({ subject, text, attachments = [] }) {
   const { host, port, user, pass, from, to } = CFG.mail;
-  if (!user || !pass || !to) {
-    log('!! email not configured (SMTP_USER / SMTP_PASS / MAIL_TO) - printing instead');
-    log(`   ${subject}\n${text}`);
-    return false;
-  }
+  if (!user || !pass || !to) return false;
   const nodemailer = require('nodemailer');
   const transport = nodemailer.createTransport({ host, port, secure: port === 465, auth: { user, pass } });
   await transport.sendMail({ from: from || user, to, subject, text, attachments });
-  log(`>> email sent to ${to}: ${subject}`);
+  log(`>> email sent to ${to}`);
   return true;
+}
+
+/** ntfy.sh push - free, no account, works with the ntfy iOS app. */
+async function sendNtfy({ subject, text, url, urgent }) {
+  const { ntfyServer, ntfyTopic, ntfyToken } = CFG.push;
+  if (!ntfyTopic) return false;
+  const headers = {
+    'Content-Type': 'text/plain; charset=utf-8',
+    Title: subject,
+    Priority: urgent ? 'urgent' : 'default',
+    Tags: urgent ? 'rotating_light' : 'warning',
+  };
+  if (url) headers.Click = url;
+  if (ntfyToken) headers.Authorization = `Bearer ${ntfyToken}`;
+  const res = await fetch(`${ntfyServer.replace(/\/$/, '')}/${ntfyTopic}`, { method: 'POST', headers, body: text });
+  if (!res.ok) throw new Error(`ntfy ${res.status} ${await res.text()}`);
+  log('>> ntfy push sent');
+  return true;
+}
+
+/** Pushover - paid once, but delivers reliably and can bypass the iPhone silent switch. */
+async function sendPushover({ subject, text, url, urgent }) {
+  const { pushoverToken, pushoverUser } = CFG.push;
+  if (!pushoverToken || !pushoverUser) return false;
+  const body = new URLSearchParams({
+    token: pushoverToken, user: pushoverUser, title: subject, message: text,
+    priority: urgent ? '1' : '0', sound: urgent ? 'persistent' : 'pushover',
+  });
+  if (url) { body.set('url', url); body.set('url_title', 'Open cita previa'); }
+  const res = await fetch('https://api.pushover.net/1/messages.json', { method: 'POST', body });
+  if (!res.ok) throw new Error(`pushover ${res.status} ${await res.text()}`);
+  log('>> pushover push sent');
+  return true;
+}
+
+/**
+ * Fan out to every configured channel. Push first - it is what actually wakes
+ * a phone at 07:46 - and never let one dead channel swallow the others.
+ */
+async function notify(msg) {
+  const channels = [['pushover', sendPushover], ['ntfy', sendNtfy], ['email', sendMail]];
+  let delivered = 0;
+  for (const [name, send] of channels) {
+    try {
+      if (await send(msg)) delivered += 1;
+    } catch (err) {
+      log(`!! ${name} notification failed: ${err.message}`);
+    }
+  }
+  if (!delivered) {
+    log('!! no notification channel configured or all failed - printing instead');
+    log(`   ${msg.subject}\n${msg.text}`);
+  }
+  return delivered;
 }
 
 async function saveDebug(page, tag) {
@@ -333,8 +390,13 @@ async function saveDebug(page, tag) {
 async function main() {
   const state = readJson(STATE_FILE, { notified: {}, errorStreak: 0, offices: null, officesAt: 0 });
 
-  if (flag('test-email')) {
-    await sendMail({ subject: 'Cita checker: test', text: 'If you can read this, SMTP works.' });
+  if (flag('test-email') || flag('test-notify')) {
+    const n = await notify({
+      subject: 'Cita checker: test',
+      text: 'If you can read this, the notification channel works.',
+      url: `${CFG.base}/index`,
+    });
+    log(`${n} channel(s) delivered`);
     return 0;
   }
   for (const [key, val] of Object.entries({ ICP_NIE: CFG.nie, ICP_NOMBRE: CFG.nombre })) {
@@ -400,7 +462,9 @@ async function main() {
           } else {
             const { dir, shot } = await saveDebug(page, office.name);
             const excerpt = (await bodyText(page)).split('\n').map((l) => l.trim()).filter(Boolean).slice(0, 40).join('\n');
-            await sendMail({
+            await notify({
+              urgent: true,
+              url: `${CFG.base}/index`,
               subject: `CITA DISPONIBLE - ${office.name}`,
               text: [
                 `Oficina:   ${office.name}`,
@@ -436,7 +500,7 @@ async function main() {
       state.errorStreak = (state.errorStreak || 0) + 1;
       exitCode = exitCode || 1;
       if (state.errorStreak === CFG.errorStreak) {
-        await sendMail({
+        await notify({
           subject: 'Cita checker is failing',
           text: `${state.errorStreak} runs in a row failed for every oficina:\n\n${problems.join('\n')}\n\nSee ${DEBUG_DIR}.`,
         });

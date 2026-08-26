@@ -9,11 +9,14 @@
     "check:force": "node check.js --force",
     "offices": "node check.js --list-offices",
     "test-email": "node check.js --test-email",
-    "postinstall": "playwright install chromium"
+    "postinstall": "playwright install chromium",
+    "test-notify": "node check.js --test-notify"
   },
   "dependencies": {
     "nodemailer": "^6.9.14",
     "playwright": "^1.47.0"
   },
-  "engines": { "node": ">=20.6" }
+  "engines": {
+    "node": ">=20.6"
+  }
 }
