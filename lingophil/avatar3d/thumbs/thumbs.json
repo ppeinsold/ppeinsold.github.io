@@ -21,135 +21,135 @@
   "gorra": {
    "slot": "head",
    "light": "thumbs/gorra.webp",
-   "lightBytes": 3280,
+   "lightBytes": 3244,
    "dark": "thumbs/gorra.dark.webp",
-   "darkBytes": 3080
+   "darkBytes": 2962
   },
   "sombrero": {
    "slot": "head",
    "light": "thumbs/sombrero.webp",
-   "lightBytes": 2704,
+   "lightBytes": 2698,
    "dark": "thumbs/sombrero.dark.webp",
-   "darkBytes": 2570
+   "darkBytes": 2558
   },
   "boina": {
    "slot": "head",
    "light": "thumbs/boina.webp",
-   "lightBytes": 2938,
+   "lightBytes": 2980,
    "dark": "thumbs/boina.dark.webp",
-   "darkBytes": 2734
+   "darkBytes": 2758
   },
   "corona": {
    "slot": "head",
    "light": "thumbs/corona.webp",
-   "lightBytes": 4196,
+   "lightBytes": 4210,
    "dark": "thumbs/corona.dark.webp",
-   "darkBytes": 4020
+   "darkBytes": 4060
   },
   "camisa": {
    "slot": "body",
    "light": "thumbs/camisa.webp",
-   "lightBytes": 4888,
+   "lightBytes": 4376,
    "dark": "thumbs/camisa.dark.webp",
-   "darkBytes": 4736
+   "darkBytes": 4192
   },
   "poncho": {
    "slot": "body",
    "light": "thumbs/poncho.webp",
-   "lightBytes": 3922,
+   "lightBytes": 3910,
    "dark": "thumbs/poncho.dark.webp",
-   "darkBytes": 3738
+   "darkBytes": 3672
   },
   "chaqueta": {
    "slot": "body",
    "light": "thumbs/chaqueta.webp",
-   "lightBytes": 4908,
+   "lightBytes": 4606,
    "dark": "thumbs/chaqueta.dark.webp",
-   "darkBytes": 4644
+   "darkBytes": 4232
   },
   "capa": {
    "slot": "body",
    "light": "thumbs/capa.webp",
-   "lightBytes": 4636,
+   "lightBytes": 4650,
    "dark": "thumbs/capa.dark.webp",
-   "darkBytes": 4624
+   "darkBytes": 4600
   },
   "sandalias": {
    "slot": "feet",
    "light": "thumbs/sandalias.webp",
-   "lightBytes": 4256,
+   "lightBytes": 4294,
    "dark": "thumbs/sandalias.dark.webp",
-   "darkBytes": 4080
+   "darkBytes": 4140
   },
   "botas": {
    "slot": "feet",
    "light": "thumbs/botas.webp",
-   "lightBytes": 4990,
+   "lightBytes": 5078,
    "dark": "thumbs/botas.dark.webp",
-   "darkBytes": 4860
+   "darkBytes": 4932
   },
   "botines": {
    "slot": "feet",
    "light": "thumbs/botines.webp",
-   "lightBytes": 4288,
+   "lightBytes": 4336,
    "dark": "thumbs/botines.dark.webp",
-   "darkBytes": 4254
+   "darkBytes": 4102
   },
   "cuaderno": {
    "slot": "hand",
    "light": "thumbs/cuaderno.webp",
-   "lightBytes": 4892,
+   "lightBytes": 4872,
    "dark": "thumbs/cuaderno.dark.webp",
-   "darkBytes": 4810
+   "darkBytes": 4794
   },
   "cafe": {
    "slot": "hand",
    "light": "thumbs/cafe.webp",
-   "lightBytes": 4570,
+   "lightBytes": 4566,
    "dark": "thumbs/cafe.dark.webp",
-   "darkBytes": 4592
+   "darkBytes": 4586
   },
   "guitarra": {
    "slot": "hand",
    "light": "thumbs/guitarra.webp",
-   "lightBytes": 4908,
+   "lightBytes": 4650,
    "dark": "thumbs/guitarra.dark.webp",
-   "darkBytes": 4706
+   "darkBytes": 4444
   },
   "mapa": {
    "slot": "hand",
    "light": "thumbs/mapa.webp",
-   "lightBytes": 5508,
+   "lightBytes": 5582,
    "dark": "thumbs/mapa.dark.webp",
-   "darkBytes": 5274
+   "darkBytes": 5306
   },
   "gato": {
    "slot": "pet",
    "light": "thumbs/gato.webp",
-   "lightBytes": 5474,
+   "lightBytes": 5534,
    "dark": "thumbs/gato.dark.webp",
-   "darkBytes": 5280
+   "darkBytes": 5354
   },
   "loro": {
    "slot": "pet",
    "light": "thumbs/loro.webp",
-   "lightBytes": 3786,
+   "lightBytes": 3826,
    "dark": "thumbs/loro.dark.webp",
-   "darkBytes": 3604
+   "darkBytes": 3628
   },
   "llama": {
    "slot": "pet",
    "light": "thumbs/llama.webp",
-   "lightBytes": 3616,
+   "lightBytes": 3628,
    "dark": "thumbs/llama.dark.webp",
-   "darkBytes": 3512
+   "darkBytes": 3586
   },
   "perro": {
    "slot": "pet",
    "light": "thumbs/perro.webp",
-   "lightBytes": 5598,
+   "lightBytes": 5596,
    "dark": "thumbs/perro.dark.webp",
-   "darkBytes": 5326
+   "darkBytes": 5356
   }
  }
 }
