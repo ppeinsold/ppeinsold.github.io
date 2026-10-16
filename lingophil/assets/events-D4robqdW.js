@@ -1,0 +1,1 @@
+const o=new Set;let t=0,i=[];function s(){if(t>0&&t--,t===0){const e=i;i=[];for(const n of e)n()}}function f(){return t===0?Promise.resolve():new Promise(e=>i.push(e))}function l(e){return o.add(e),()=>{o.delete(e)}}function a(e){e.phase==="before"?t++:e.timeline?e.timeline.then(()=>s()):s();for(const n of o)try{n(e)}catch{}}export{a as e,l as o,f as w};
