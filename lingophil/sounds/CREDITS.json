@@ -1,0 +1,2706 @@
+{
+ "_about": "Every source recording used by an output asset. Only CC0 material ships: Freesound CC0, Kenney, OpenGameArt CC0. No Mixkit and no Sonniss file is used, not even as a layer. No attribution is required by any of these licences; authors are listed as a courtesy.",
+ "assets": {
+  "ans.casi": {
+   "file": "sfx/ans.casi.m4a",
+   "sources": [
+    {
+     "key": "fs161317",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum.flac ",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161317/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.dunno": {
+   "file": "sfx/ans.dunno.m4a",
+   "sources": [
+    {
+     "key": "kenney:rpg-audio/cloth1",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth1.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681936",
+     "source": "Freesound",
+     "title": "guitar tones 001 string B 15 tone D5.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681936/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth3",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth3.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681916",
+     "source": "Freesound",
+     "title": "guitar tones 001 string G 19 tone D5.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681916/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.fire.ignite": {
+   "file": "sfx/ans.fire.ignite.m4a",
+   "sources": [
+    {
+     "key": "fs256804",
+     "source": "Freesound",
+     "title": "Striking a Match 4",
+     "author": "HunteR4708",
+     "url": "https://freesound.org/people/HunteR4708/sounds/256804/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs386385",
+     "source": "Freesound",
+     "title": "Torch - Ignite flame on soft",
+     "author": "ldezem",
+     "url": "https://freesound.org/people/ldezem/sounds/386385/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs161317",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum.flac ",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161317/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs423811",
+     "source": "Freesound",
+     "title": "Match strike 03",
+     "author": "scalywhale",
+     "url": "https://freesound.org/people/scalywhale/sounds/423811/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.base.r1": {
+   "file": "sfx/ans.right.base.r1.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681856",
+     "source": "Freesound",
+     "title": "guitar tones 001 string A 22 tone G4.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681856/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs691805",
+     "source": "Freesound",
+     "title": "G4 soft - kalimba",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/691805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.base.r2": {
+   "file": "sfx/ans.right.base.r2.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681856",
+     "source": "Freesound",
+     "title": "guitar tones 001 string A 22 tone G4.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681856/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs691805",
+     "source": "Freesound",
+     "title": "G4 soft - kalimba",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/691805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.base.r3": {
+   "file": "sfx/ans.right.base.r3.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681856",
+     "source": "Freesound",
+     "title": "guitar tones 001 string A 22 tone G4.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681856/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs691805",
+     "source": "Freesound",
+     "title": "G4 soft - kalimba",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/691805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.base.r4": {
+   "file": "sfx/ans.right.base.r4.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681856",
+     "source": "Freesound",
+     "title": "guitar tones 001 string A 22 tone G4.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681856/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs691805",
+     "source": "Freesound",
+     "title": "G4 soft - kalimba",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/691805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.base.r5": {
+   "file": "sfx/ans.right.base.r5.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681856",
+     "source": "Freesound",
+     "title": "guitar tones 001 string A 22 tone G4.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681856/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs691805",
+     "source": "Freesound",
+     "title": "G4 soft - kalimba",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/691805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.ember": {
+   "file": "sfx/ans.right.ember.m4a",
+   "sources": [
+    {
+     "key": "fs510796",
+     "source": "Freesound",
+     "title": "Maracas.mp3",
+     "author": "el.papa.montero",
+     "url": "https://freesound.org/people/el.papa.montero/sounds/510796/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs486950",
+     "source": "Freesound",
+     "title": "maracas",
+     "author": "nathanmanaker",
+     "url": "https://freesound.org/people/nathanmanaker/sounds/486950/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs171935",
+     "source": "Freesound",
+     "title": "Rattle Egg",
+     "author": "qubodup",
+     "url": "https://freesound.org/people/qubodup/sounds/171935/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs385844",
+     "source": "Freesound",
+     "title": "shake9.aiff",
+     "author": "cernoel",
+     "url": "https://freesound.org/people/cernoel/sounds/385844/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs692825",
+     "source": "Freesound",
+     "title": "Maracas-follow.wav",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/692825/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs792505",
+     "source": "Freesound",
+     "title": "Big Maraca OS 1",
+     "author": "Sadiquecat",
+     "url": "https://freesound.org/people/Sadiquecat/sounds/792505/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.ev.prod": {
+   "file": "sfx/ans.right.ev.prod.m4a",
+   "sources": [
+    {
+     "key": "fs486950",
+     "source": "Freesound",
+     "title": "maracas",
+     "author": "nathanmanaker",
+     "url": "https://freesound.org/people/nathanmanaker/sounds/486950/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs510796",
+     "source": "Freesound",
+     "title": "Maracas.mp3",
+     "author": "el.papa.montero",
+     "url": "https://freesound.org/people/el.papa.montero/sounds/510796/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.ev.un": {
+   "file": "sfx/ans.right.ev.un.m4a",
+   "sources": [
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs510796",
+     "source": "Freesound",
+     "title": "Maracas.mp3",
+     "author": "el.papa.montero",
+     "url": "https://freesound.org/people/el.papa.montero/sounds/510796/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs692825",
+     "source": "Freesound",
+     "title": "Maracas-follow.wav",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/692825/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.ms3": {
+   "file": "sfx/ans.right.ms3.m4a",
+   "sources": [
+    {
+     "key": "fs447805",
+     "source": "Freesound",
+     "title": "remate_sole\u00e1.wav",
+     "author": "miguelgc96",
+     "url": "https://freesound.org/people/miguelgc96/sounds/447805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs374162",
+     "source": "Freesound",
+     "title": "Trumpet - sustain - F#4 (Sum_SHTrumpet_sus_G3_v3_rr1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/374162/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs258107",
+     "source": "Freesound",
+     "title": "overall quality of single note - trumpet - B5",
+     "author": "fuannnakimochi",
+     "url": "https://freesound.org/people/fuannnakimochi/sounds/258107/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.ms5": {
+   "file": "sfx/ans.right.ms5.m4a",
+   "sources": [
+    {
+     "key": "fs350433",
+     "source": "Freesound",
+     "title": "Horn Stabs Entrance",
+     "author": "bevibeldesign",
+     "url": "https://freesound.org/people/bevibeldesign/sounds/350433/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs258107",
+     "source": "Freesound",
+     "title": "overall quality of single note - trumpet - B5",
+     "author": "fuannnakimochi",
+     "url": "https://freesound.org/people/fuannnakimochi/sounds/258107/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs374162",
+     "source": "Freesound",
+     "title": "Trumpet - sustain - F#4 (Sum_SHTrumpet_sus_G3_v3_rr1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/374162/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_001",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth2",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs691805",
+     "source": "Freesound",
+     "title": "G4 soft - kalimba",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/691805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.right.ms8": {
+   "file": "sfx/ans.right.ms8.m4a",
+   "sources": [
+    {
+     "key": "fs521589",
+     "source": "Freesound",
+     "title": "Hiking Boot Footsteps on Wooden Planks",
+     "author": "Fission9",
+     "url": "https://freesound.org/people/Fission9/sounds/521589/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_wood_000",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_wood_000.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_wood_001",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_wood_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_wood_002",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_wood_002.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_wood_003",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_wood_003.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_wood_004",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_wood_004.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs447805",
+     "source": "Freesound",
+     "title": "remate_sole\u00e1.wav",
+     "author": "miguelgc96",
+     "url": "https://freesound.org/people/miguelgc96/sounds/447805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs258107",
+     "source": "Freesound",
+     "title": "overall quality of single note - trumpet - B5",
+     "author": "fuannnakimochi",
+     "url": "https://freesound.org/people/fuannnakimochi/sounds/258107/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs350433",
+     "source": "Freesound",
+     "title": "Horn Stabs Entrance",
+     "author": "bevibeldesign",
+     "url": "https://freesound.org/people/bevibeldesign/sounds/350433/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ans.wrong": {
+   "file": "sfx/ans.wrong.m4a",
+   "sources": [
+    {
+     "key": "fs161317",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum.flac ",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161317/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681936",
+     "source": "Freesound",
+     "title": "guitar tones 001 string B 15 tone D5.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681936/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681916",
+     "source": "Freesound",
+     "title": "guitar tones 001 string G 19 tone D5.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681916/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs113621",
+     "source": "Freesound",
+     "title": "SnareNaturalGtrLoud1_2.wav",
+     "author": "ukkva",
+     "url": "https://freesound.org/people/ukkva/sounds/113621/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "coin.glint": {
+   "file": "sfx/coin.glint.m4a",
+   "sources": [
+    {
+     "key": "fs683041",
+     "source": "Freesound",
+     "title": "Harmonic_f#4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683041/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs336585",
+     "source": "Freesound",
+     "title": "coins - in paper bowl 05.wav",
+     "author": "Anthousai",
+     "url": "https://freesound.org/people/Anthousai/sounds/336585/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "coin.hat": {
+   "file": "sfx/coin.hat.m4a",
+   "sources": [
+    {
+     "key": "kenney:rpg-audio/cloth2",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs374162",
+     "source": "Freesound",
+     "title": "Trumpet - sustain - F#4 (Sum_SHTrumpet_sus_G3_v3_rr1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/374162/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "coin.land": {
+   "file": "sfx/coin.land.m4a",
+   "sources": [
+    {
+     "key": "fs630018",
+     "source": "Freesound",
+     "title": "Singular Coin Dropping.wav",
+     "author": "Flem0527",
+     "url": "https://freesound.org/people/Flem0527/sounds/630018/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_001",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs336585",
+     "source": "Freesound",
+     "title": "coins - in paper bowl 05.wav",
+     "author": "Anthousai",
+     "url": "https://freesound.org/people/Anthousai/sounds/336585/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_003",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_003.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs699522",
+     "source": "Freesound",
+     "title": "Coin_Drop_27",
+     "author": "Valenspire",
+     "url": "https://freesound.org/people/Valenspire/sounds/699522/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_004",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_004.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "coin.last": {
+   "file": "sfx/coin.last.m4a",
+   "sources": [
+    {
+     "key": "fs121990",
+     "source": "Freesound",
+     "title": "coinBag.wav",
+     "author": "tomf_",
+     "url": "https://freesound.org/people/tomf_/sounds/121990/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_001",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs192761",
+     "source": "Freesound",
+     "title": "Ryuuzan_shop_door_bell00.wav",
+     "author": "ryuuzan",
+     "url": "https://freesound.org/people/ryuuzan/sounds/192761/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs510735",
+     "source": "Freesound",
+     "title": "Coin dropped on table 5",
+     "author": "HoseNoseSounds",
+     "url": "https://freesound.org/people/HoseNoseSounds/sounds/510735/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_003",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_003.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "coin.pour": {
+   "file": "sfx/coin.pour.m4a",
+   "sources": [
+    {
+     "key": "fs847350",
+     "source": "Freesound",
+     "title": "handful-of-coins-007",
+     "author": "ilyaShevelev",
+     "url": "https://freesound.org/people/ilyaShevelev/sounds/847350/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/handleCoins2",
+     "source": "Kenney",
+     "title": "rpg-audio / handleCoins2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "fx.confetti": {
+   "file": "sfx/fx.confetti.m4a",
+   "sources": [
+    {
+     "key": "fs510796",
+     "source": "Freesound",
+     "title": "Maracas.mp3",
+     "author": "el.papa.montero",
+     "url": "https://freesound.org/people/el.papa.montero/sounds/510796/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/bookFlip2",
+     "source": "Kenney",
+     "title": "rpg-audio / bookFlip2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs590318",
+     "source": "Freesound",
+     "title": "SFX_STICKERRIPPER_fabric_14.wav",
+     "author": "MrFossy",
+     "url": "https://freesound.org/people/MrFossy/sounds/590318/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "map.hop": {
+   "file": "sfx/map.hop.m4a",
+   "sources": [
+    {
+     "key": "kenney:rpg-audio/cloth2",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs521589",
+     "source": "Freesound",
+     "title": "Hiking Boot Footsteps on Wooden Planks",
+     "author": "Fission9",
+     "url": "https://freesound.org/people/Fission9/sounds/521589/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_wood_004",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_wood_004.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth4",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth4.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_wood_000",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_wood_000.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "map.stamp": {
+   "file": "sfx/map.stamp.m4a",
+   "sources": [
+    {
+     "key": "fs362623",
+     "source": "Freesound",
+     "title": "Stamp",
+     "author": "kermite607",
+     "url": "https://freesound.org/people/kermite607/sounds/362623/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs192761",
+     "source": "Freesound",
+     "title": "Ryuuzan_shop_door_bell00.wav",
+     "author": "ryuuzan",
+     "url": "https://freesound.org/people/ryuuzan/sounds/192761/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs362624",
+     "source": "Freesound",
+     "title": "Stamp",
+     "author": "kermite607",
+     "url": "https://freesound.org/people/kermite607/sounds/362624/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "map.step.dirt": {
+   "file": "sfx/map.step.dirt.m4a",
+   "sources": [
+    {
+     "key": "fs353799",
+     "source": "Freesound",
+     "title": "Footsteps_6_Dirt_shoe.wav",
+     "author": "monte32",
+     "url": "https://freesound.org/people/monte32/sounds/353799/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "map.step.grass": {
+   "file": "sfx/map.step.grass.m4a",
+   "sources": [
+    {
+     "key": "kenney:impact-sounds/footstep_grass_000",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_grass_000.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_grass_001",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_grass_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_grass_003",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_grass_003.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "map.step.gravel": {
+   "file": "sfx/map.step.gravel.m4a",
+   "sources": [
+    {
+     "key": "fs521588",
+     "source": "Freesound",
+     "title": "Hiking Boot Footsteps on Gravel",
+     "author": "Fission9",
+     "url": "https://freesound.org/people/Fission9/sounds/521588/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "map.step.sand": {
+   "file": "sfx/map.step.sand.m4a",
+   "sources": [
+    {
+     "key": "oga-pack:Fantozzi-SandL1",
+     "source": "OpenGameArt",
+     "title": "Fantozzi's Footsteps (Grass/Sand & Stone) / Fantozzi-SandL1.ogg",
+     "author": "qubodup (Fantozzi's footsteps)",
+     "url": "https://opengameart.org/content/fantozzis-footsteps-grasssand-stone",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "oga-pack:Fantozzi-SandR1",
+     "source": "OpenGameArt",
+     "title": "Fantozzi's Footsteps (Grass/Sand & Stone) / Fantozzi-SandR1.ogg",
+     "author": "qubodup (Fantozzi's footsteps)",
+     "url": "https://opengameart.org/content/fantozzis-footsteps-grasssand-stone",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "oga-pack:Fantozzi-SandL2",
+     "source": "OpenGameArt",
+     "title": "Fantozzi's Footsteps (Grass/Sand & Stone) / Fantozzi-SandL2.ogg",
+     "author": "qubodup (Fantozzi's footsteps)",
+     "url": "https://opengameart.org/content/fantozzis-footsteps-grasssand-stone",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "map.step.stone": {
+   "file": "sfx/map.step.stone.m4a",
+   "sources": [
+    {
+     "key": "oga-pack:Fantozzi-StoneL1",
+     "source": "OpenGameArt",
+     "title": "Fantozzi's Footsteps (Grass/Sand & Stone) / Fantozzi-StoneL1.ogg",
+     "author": "qubodup (Fantozzi's footsteps)",
+     "url": "https://opengameart.org/content/fantozzis-footsteps-grasssand-stone",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "oga-pack:Fantozzi-StoneR1",
+     "source": "OpenGameArt",
+     "title": "Fantozzi's Footsteps (Grass/Sand & Stone) / Fantozzi-StoneR1.ogg",
+     "author": "qubodup (Fantozzi's footsteps)",
+     "url": "https://opengameart.org/content/fantozzis-footsteps-grasssand-stone",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "oga-pack:Fantozzi-StoneL3",
+     "source": "OpenGameArt",
+     "title": "Fantozzi's Footsteps (Grass/Sand & Stone) / Fantozzi-StoneL3.ogg",
+     "author": "qubodup (Fantozzi's footsteps)",
+     "url": "https://opengameart.org/content/fantozzis-footsteps-grasssand-stone",
+     "license": "CC0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "match.miss": {
+   "file": "sfx/match.miss.m4a",
+   "sources": [
+    {
+     "key": "fs161317",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum.flac ",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161317/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "match.pair": {
+   "file": "sfx/match.pair.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681856",
+     "source": "Freesound",
+     "title": "guitar tones 001 string A 22 tone G4.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681856/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs691805",
+     "source": "Freesound",
+     "title": "G4 soft - kalimba",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/691805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "res.arrive": {
+   "file": "sfx/res.arrive.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681856",
+     "source": "Freesound",
+     "title": "guitar tones 001 string A 22 tone G4.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681856/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs374162",
+     "source": "Freesound",
+     "title": "Trumpet - sustain - F#4 (Sum_SHTrumpet_sus_G3_v3_rr1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/374162/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs691805",
+     "source": "Freesound",
+     "title": "G4 soft - kalimba",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/691805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "res.bar": {
+   "file": "sfx/res.bar.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "res.bar.end": {
+   "file": "sfx/res.bar.end.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "res.count.roll": {
+   "file": "sfx/res.count.roll.m4a",
+   "sources": [
+    {
+     "key": "fs472469",
+     "source": "Freesound",
+     "title": "Guiro",
+     "author": "brunoboselli",
+     "url": "https://freesound.org/people/brunoboselli/sounds/472469/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "res.medal.acc": {
+   "file": "sfx/res.medal.acc.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "res.medal.combo": {
+   "file": "sfx/res.medal.combo.m4a",
+   "sources": [
+    {
+     "key": "fs792505",
+     "source": "Freesound",
+     "title": "Big Maraca OS 1",
+     "author": "Sadiquecat",
+     "url": "https://freesound.org/people/Sadiquecat/sounds/792505/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "res.medal.xp": {
+   "file": "sfx/res.medal.xp.m4a",
+   "sources": [
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "res.settle": {
+   "file": "sfx/res.settle.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "rope.bank": {
+   "file": "sfx/rope.bank.m4a",
+   "sources": [
+    {
+     "key": "kenney:rpg-audio/dropLeather",
+     "source": "Kenney",
+     "title": "rpg-audio / dropLeather.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/handleCoins2",
+     "source": "Kenney",
+     "title": "rpg-audio / handleCoins2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/handleSmallLeather",
+     "source": "Kenney",
+     "title": "rpg-audio / handleSmallLeather.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "rope.commit": {
+   "file": "sfx/rope.commit.m4a",
+   "sources": [
+    {
+     "key": "fs664929",
+     "source": "Freesound",
+     "title": "rope leathery creaking.wav",
+     "author": "vestibule-door",
+     "url": "https://freesound.org/people/vestibule-door/sounds/664929/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs683041",
+     "source": "Freesound",
+     "title": "Harmonic_f#4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683041/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs536187",
+     "source": "Freesound",
+     "title": "Leather Creak / Stretching",
+     "author": "IENBA",
+     "url": "https://freesound.org/people/IENBA/sounds/536187/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "run.go": {
+   "file": "sfx/run.go.m4a",
+   "sources": [
+    {
+     "key": "fs447805",
+     "source": "Freesound",
+     "title": "remate_sole\u00e1.wav",
+     "author": "miguelgc96",
+     "url": "https://freesound.org/people/miguelgc96/sounds/447805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "shop.buy.coins": {
+   "file": "sfx/shop.buy.coins.m4a",
+   "sources": [
+    {
+     "key": "fs510735",
+     "source": "Freesound",
+     "title": "Coin dropped on table 5",
+     "author": "HoseNoseSounds",
+     "url": "https://freesound.org/people/HoseNoseSounds/sounds/510735/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactWood_light_000",
+     "source": "Kenney",
+     "title": "impact-sounds / impactWood_light_000.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs336585",
+     "source": "Freesound",
+     "title": "coins - in paper bowl 05.wav",
+     "author": "Anthousai",
+     "url": "https://freesound.org/people/Anthousai/sounds/336585/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactWood_light_001",
+     "source": "Kenney",
+     "title": "impact-sounds / impactWood_light_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs699522",
+     "source": "Freesound",
+     "title": "Coin_Drop_27",
+     "author": "Valenspire",
+     "url": "https://freesound.org/people/Valenspire/sounds/699522/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactWood_light_002",
+     "source": "Kenney",
+     "title": "impact-sounds / impactWood_light_002.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactWood_light_003",
+     "source": "Kenney",
+     "title": "impact-sounds / impactWood_light_003.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs121990",
+     "source": "Freesound",
+     "title": "coinBag.wav",
+     "author": "tomf_",
+     "url": "https://freesound.org/people/tomf_/sounds/121990/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactWood_light_004",
+     "source": "Kenney",
+     "title": "impact-sounds / impactWood_light_004.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "shop.buy.stamp": {
+   "file": "sfx/shop.buy.stamp.m4a",
+   "sources": [
+    {
+     "key": "fs362622",
+     "source": "Freesound",
+     "title": "Stamp",
+     "author": "kermite607",
+     "url": "https://freesound.org/people/kermite607/sounds/362622/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs192761",
+     "source": "Freesound",
+     "title": "Ryuuzan_shop_door_bell00.wav",
+     "author": "ryuuzan",
+     "url": "https://freesound.org/people/ryuuzan/sounds/192761/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs258107",
+     "source": "Freesound",
+     "title": "overall quality of single note - trumpet - B5",
+     "author": "fuannnakimochi",
+     "url": "https://freesound.org/people/fuannnakimochi/sounds/258107/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs362623",
+     "source": "Freesound",
+     "title": "Stamp",
+     "author": "kermite607",
+     "url": "https://freesound.org/people/kermite607/sounds/362623/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "shop.cloth": {
+   "file": "sfx/shop.cloth.m4a",
+   "sources": [
+    {
+     "key": "kenney:rpg-audio/cloth1",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth1.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth3",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth3.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth4",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth4.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "shop.hat.land": {
+   "file": "sfx/shop.hat.land.m4a",
+   "sources": [
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_000",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_000.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth4",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth4.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_001",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth3",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth3.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "shop.hat.up": {
+   "file": "sfx/shop.hat.up.m4a",
+   "sources": [
+    {
+     "key": "kenney:rpg-audio/cloth2",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth4",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth4.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "shop.nope": {
+   "file": "sfx/shop.nope.m4a",
+   "sources": [
+    {
+     "key": "fs113621",
+     "source": "Freesound",
+     "title": "SnareNaturalGtrLoud1_2.wav",
+     "author": "ukkva",
+     "url": "https://freesound.org/people/ukkva/sounds/113621/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_002",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_002.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs161470",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum 2.wav",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161470/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_medium_003",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_medium_003.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "streak.up": {
+   "file": "sfx/streak.up.m4a",
+   "sources": [
+    {
+     "key": "fs386385",
+     "source": "Freesound",
+     "title": "Torch - Ignite flame on soft",
+     "author": "ldezem",
+     "url": "https://freesound.org/people/ldezem/sounds/386385/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs683041",
+     "source": "Freesound",
+     "title": "Harmonic_f#4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683041/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "tier.cheer": {
+   "file": "sfx/tier.cheer.m4a",
+   "sources": [
+    {
+     "key": "fs447805",
+     "source": "Freesound",
+     "title": "remate_sole\u00e1.wav",
+     "author": "miguelgc96",
+     "url": "https://freesound.org/people/miguelgc96/sounds/447805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "tier.leap": {
+   "file": "sfx/tier.leap.m4a",
+   "sources": [
+    {
+     "key": "fs258107",
+     "source": "Freesound",
+     "title": "overall quality of single note - trumpet - B5",
+     "author": "fuannnakimochi",
+     "url": "https://freesound.org/people/fuannnakimochi/sounds/258107/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs691805",
+     "source": "Freesound",
+     "title": "G4 soft - kalimba",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/691805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "tier.nod": {
+   "file": "sfx/tier.nod.m4a",
+   "sources": [
+    {
+     "key": "fs681941",
+     "source": "Freesound",
+     "title": "guitar tones 001 string B 20 tone G5.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681941/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs659912",
+     "source": "Freesound",
+     "title": "Clave.wav",
+     "author": "PanPiper5",
+     "url": "https://freesound.org/people/PanPiper5/sounds/659912/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs375645",
+     "source": "Freesound",
+     "title": "Claves (claves_pp1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/375645/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "tier.perfect": {
+   "file": "sfx/tier.perfect.m4a",
+   "sources": [
+    {
+     "key": "fs350433",
+     "source": "Freesound",
+     "title": "Horn Stabs Entrance",
+     "author": "bevibeldesign",
+     "url": "https://freesound.org/people/bevibeldesign/sounds/350433/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs258107",
+     "source": "Freesound",
+     "title": "overall quality of single note - trumpet - B5",
+     "author": "fuannnakimochi",
+     "url": "https://freesound.org/people/fuannnakimochi/sounds/258107/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs374162",
+     "source": "Freesound",
+     "title": "Trumpet - sustain - F#4 (Sum_SHTrumpet_sus_G3_v3_rr1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/374162/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs447805",
+     "source": "Freesound",
+     "title": "remate_sole\u00e1.wav",
+     "author": "miguelgc96",
+     "url": "https://freesound.org/people/miguelgc96/sounds/447805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs659912",
+     "source": "Freesound",
+     "title": "Clave.wav",
+     "author": "PanPiper5",
+     "url": "https://freesound.org/people/PanPiper5/sounds/659912/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs375645",
+     "source": "Freesound",
+     "title": "Claves (claves_pp1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/375645/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs186992",
+     "source": "Freesound",
+     "title": "Close claves",
+     "author": "LloydEvans09",
+     "url": "https://freesound.org/people/LloydEvans09/sounds/186992/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_heavy_001",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_heavy_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "tier.proxima": {
+   "file": "sfx/tier.proxima.m4a",
+   "sources": [
+    {
+     "key": "fs161317",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum.flac ",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161317/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs681936",
+     "source": "Freesound",
+     "title": "guitar tones 001 string B 15 tone D5.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681936/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs113621",
+     "source": "Freesound",
+     "title": "SnareNaturalGtrLoud1_2.wav",
+     "author": "ukkva",
+     "url": "https://freesound.org/people/ukkva/sounds/113621/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ui.commit": {
+   "file": "sfx/ui.commit.m4a",
+   "sources": [
+    {
+     "key": "fs161317",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum.flac ",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161317/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs113620",
+     "source": "Freesound",
+     "title": "MiscSoftNaturalGtrLoud2_2.wav",
+     "author": "ukkva",
+     "url": "https://freesound.org/people/ukkva/sounds/113620/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ui.next": {
+   "file": "sfx/ui.next.m4a",
+   "sources": [
+    {
+     "key": "kenney:casino-audio/card-fan-1",
+     "source": "Kenney",
+     "title": "casino-audio / card-fan-1.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/casino-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs659912",
+     "source": "Freesound",
+     "title": "Clave.wav",
+     "author": "PanPiper5",
+     "url": "https://freesound.org/people/PanPiper5/sounds/659912/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:casino-audio/card-slide-1",
+     "source": "Kenney",
+     "title": "casino-audio / card-slide-1.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/casino-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs375645",
+     "source": "Freesound",
+     "title": "Claves (claves_pp1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/375645/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:casino-audio/card-slide-3",
+     "source": "Kenney",
+     "title": "casino-audio / card-slide-3.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/casino-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs186992",
+     "source": "Freesound",
+     "title": "Close claves",
+     "author": "LloydEvans09",
+     "url": "https://freesound.org/people/LloydEvans09/sounds/186992/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ui.select": {
+   "file": "sfx/ui.select.m4a",
+   "sources": [
+    {
+     "key": "kenney:impact-sounds/impactWood_light_000",
+     "source": "Kenney",
+     "title": "impact-sounds / impactWood_light_000.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactWood_light_002",
+     "source": "Kenney",
+     "title": "impact-sounds / impactWood_light_002.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactPlank_medium_001",
+     "source": "Kenney",
+     "title": "impact-sounds / impactPlank_medium_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactPlank_medium_003",
+     "source": "Kenney",
+     "title": "impact-sounds / impactPlank_medium_003.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ui.swish": {
+   "file": "sfx/ui.swish.m4a",
+   "sources": [
+    {
+     "key": "kenney:rpg-audio/cloth1",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth1.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth3",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth3.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/clothBelt2",
+     "source": "Kenney",
+     "title": "rpg-audio / clothBelt2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "ui.tap": {
+   "file": "sfx/ui.tap.m4a",
+   "sources": [
+    {
+     "key": "fs161317",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum.flac ",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161317/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs659912",
+     "source": "Freesound",
+     "title": "Clave.wav",
+     "author": "PanPiper5",
+     "url": "https://freesound.org/people/PanPiper5/sounds/659912/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs375645",
+     "source": "Freesound",
+     "title": "Claves (claves_pp1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/375645/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.badge.spin": {
+   "file": "sfx/unlock.badge.spin.m4a",
+   "sources": [
+    {
+     "key": "fs617234",
+     "source": "Freesound",
+     "title": "spinning_coin_3.wav",
+     "author": "magion",
+     "url": "https://freesound.org/people/magion/sounds/617234/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs617236",
+     "source": "Freesound",
+     "title": "spinning_coin_1.wav",
+     "author": "magion",
+     "url": "https://freesound.org/people/magion/sounds/617236/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.build": {
+   "file": "sfx/unlock.build.m4a",
+   "sources": [
+    {
+     "key": "fs681936",
+     "source": "Freesound",
+     "title": "guitar tones 001 string B 15 tone D5.wav",
+     "author": "josefpres",
+     "url": "https://freesound.org/people/josefpres/sounds/681936/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs692825",
+     "source": "Freesound",
+     "title": "Maracas-follow.wav",
+     "author": "hollandm",
+     "url": "https://freesound.org/people/hollandm/sounds/692825/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs792505",
+     "source": "Freesound",
+     "title": "Big Maraca OS 1",
+     "author": "Sadiquecat",
+     "url": "https://freesound.org/people/Sadiquecat/sounds/792505/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs510796",
+     "source": "Freesound",
+     "title": "Maracas.mp3",
+     "author": "el.papa.montero",
+     "url": "https://freesound.org/people/el.papa.montero/sounds/510796/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs486950",
+     "source": "Freesound",
+     "title": "maracas",
+     "author": "nathanmanaker",
+     "url": "https://freesound.org/people/nathanmanaker/sounds/486950/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs171935",
+     "source": "Freesound",
+     "title": "Rattle Egg",
+     "author": "qubodup",
+     "url": "https://freesound.org/people/qubodup/sounds/171935/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs385844",
+     "source": "Freesound",
+     "title": "shake9.aiff",
+     "author": "cernoel",
+     "url": "https://freesound.org/people/cernoel/sounds/385844/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.count": {
+   "file": "sfx/unlock.count.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.cta": {
+   "file": "sfx/unlock.cta.m4a",
+   "sources": [
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.hit": {
+   "file": "sfx/unlock.hit.m4a",
+   "sources": [
+    {
+     "key": "fs521589",
+     "source": "Freesound",
+     "title": "Hiking Boot Footsteps on Wooden Planks",
+     "author": "Fission9",
+     "url": "https://freesound.org/people/Fission9/sounds/521589/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs161317",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum.flac ",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161317/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs350433",
+     "source": "Freesound",
+     "title": "Horn Stabs Entrance",
+     "author": "bevibeldesign",
+     "url": "https://freesound.org/people/bevibeldesign/sounds/350433/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs258107",
+     "source": "Freesound",
+     "title": "overall quality of single note - trumpet - B5",
+     "author": "fuannnakimochi",
+     "url": "https://freesound.org/people/fuannnakimochi/sounds/258107/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs374162",
+     "source": "Freesound",
+     "title": "Trumpet - sustain - F#4 (Sum_SHTrumpet_sus_G3_v3_rr1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/374162/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs447805",
+     "source": "Freesound",
+     "title": "remate_sole\u00e1.wav",
+     "author": "miguelgc96",
+     "url": "https://freesound.org/people/miguelgc96/sounds/447805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs336585",
+     "source": "Freesound",
+     "title": "coins - in paper bowl 05.wav",
+     "author": "Anthousai",
+     "url": "https://freesound.org/people/Anthousai/sounds/336585/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs847350",
+     "source": "Freesound",
+     "title": "handful-of-coins-007",
+     "author": "ilyaShevelev",
+     "url": "https://freesound.org/people/ilyaShevelev/sounds/847350/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs510796",
+     "source": "Freesound",
+     "title": "Maracas.mp3",
+     "author": "el.papa.montero",
+     "url": "https://freesound.org/people/el.papa.montero/sounds/510796/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_heavy_001",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_heavy_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.hit.rm": {
+   "file": "sfx/unlock.hit.rm.m4a",
+   "sources": [
+    {
+     "key": "fs521589",
+     "source": "Freesound",
+     "title": "Hiking Boot Footsteps on Wooden Planks",
+     "author": "Fission9",
+     "url": "https://freesound.org/people/Fission9/sounds/521589/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs161317",
+     "source": "Freesound",
+     "title": "Jungle Guitar Drum.flac ",
+     "author": "husky70",
+     "url": "https://freesound.org/people/husky70/sounds/161317/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs350433",
+     "source": "Freesound",
+     "title": "Horn Stabs Entrance",
+     "author": "bevibeldesign",
+     "url": "https://freesound.org/people/bevibeldesign/sounds/350433/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs258107",
+     "source": "Freesound",
+     "title": "overall quality of single note - trumpet - B5",
+     "author": "fuannnakimochi",
+     "url": "https://freesound.org/people/fuannnakimochi/sounds/258107/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs374162",
+     "source": "Freesound",
+     "title": "Trumpet - sustain - F#4 (Sum_SHTrumpet_sus_G3_v3_rr1.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/374162/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs447805",
+     "source": "Freesound",
+     "title": "remate_sole\u00e1.wav",
+     "author": "miguelgc96",
+     "url": "https://freesound.org/people/miguelgc96/sounds/447805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs336585",
+     "source": "Freesound",
+     "title": "coins - in paper bowl 05.wav",
+     "author": "Anthousai",
+     "url": "https://freesound.org/people/Anthousai/sounds/336585/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs847350",
+     "source": "Freesound",
+     "title": "handful-of-coins-007",
+     "author": "ilyaShevelev",
+     "url": "https://freesound.org/people/ilyaShevelev/sounds/847350/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs510796",
+     "source": "Freesound",
+     "title": "Maracas.mp3",
+     "author": "el.papa.montero",
+     "url": "https://freesound.org/people/el.papa.montero/sounds/510796/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/impactSoft_heavy_001",
+     "source": "Kenney",
+     "title": "impact-sounds / impactSoft_heavy_001.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.land": {
+   "file": "sfx/unlock.land.m4a",
+   "sources": [
+    {
+     "key": "fs521589",
+     "source": "Freesound",
+     "title": "Hiking Boot Footsteps on Wooden Planks",
+     "author": "Fission9",
+     "url": "https://freesound.org/people/Fission9/sounds/521589/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_wood_002",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_wood_002.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth2",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:impact-sounds/footstep_wood_003",
+     "source": "Kenney",
+     "title": "impact-sounds / footstep_wood_003.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/impact-sounds",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/cloth4",
+     "source": "Kenney",
+     "title": "rpg-audio / cloth4.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.letters": {
+   "file": "sfx/unlock.letters.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.level.fanfare": {
+   "file": "sfx/unlock.level.fanfare.m4a",
+   "sources": [
+    {
+     "key": "fs258107",
+     "source": "Freesound",
+     "title": "overall quality of single note - trumpet - B5",
+     "author": "fuannnakimochi",
+     "url": "https://freesound.org/people/fuannnakimochi/sounds/258107/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs683038",
+     "source": "Freesound",
+     "title": "Harmonic_b4",
+     "author": "brettrader",
+     "url": "https://freesound.org/people/brettrader/sounds/683038/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs447805",
+     "source": "Freesound",
+     "title": "remate_sole\u00e1.wav",
+     "author": "miguelgc96",
+     "url": "https://freesound.org/people/miguelgc96/sounds/447805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.level.roll": {
+   "file": "sfx/unlock.level.roll.m4a",
+   "sources": [
+    {
+     "key": "kenney:rpg-audio/bookFlip3",
+     "source": "Kenney",
+     "title": "rpg-audio / bookFlip3.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/bookFlip2",
+     "source": "Kenney",
+     "title": "rpg-audio / bookFlip2.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.lock.click": {
+   "file": "sfx/unlock.lock.click.m4a",
+   "sources": [
+    {
+     "key": "fs536414",
+     "source": "Freesound",
+     "title": "Small Padlock Opening",
+     "author": "Rudmer_Rotteveel",
+     "url": "https://freesound.org/people/Rudmer_Rotteveel/sounds/536414/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "kenney:rpg-audio/metalLatch",
+     "source": "Kenney",
+     "title": "rpg-audio / metalLatch.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.lock.rattle": {
+   "file": "sfx/unlock.lock.rattle.m4a",
+   "sources": [
+    {
+     "key": "fs164670",
+     "source": "Freesound",
+     "title": "Lock rattle 5.wav",
+     "author": "deleted_user_2104797",
+     "url": "https://freesound.org/people/deleted_user_2104797/sounds/164670/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.place.drop": {
+   "file": "sfx/unlock.place.drop.m4a",
+   "sources": [
+    {
+     "key": "kenney:rpg-audio/clothBelt",
+     "source": "Kenney",
+     "title": "rpg-audio / clothBelt.ogg",
+     "author": "Kenney Vleugels (Kenney.nl)",
+     "url": "https://kenney.nl/assets/rpg-audio",
+     "license": "CC0 1.0",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs664929",
+     "source": "Freesound",
+     "title": "rope leathery creaking.wav",
+     "author": "vestibule-door",
+     "url": "https://freesound.org/people/vestibule-door/sounds/664929/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "unlock.place.stamp": {
+   "file": "sfx/unlock.place.stamp.m4a",
+   "sources": [
+    {
+     "key": "fs362622",
+     "source": "Freesound",
+     "title": "Stamp",
+     "author": "kermite607",
+     "url": "https://freesound.org/people/kermite607/sounds/362622/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs362623",
+     "source": "Freesound",
+     "title": "Stamp",
+     "author": "kermite607",
+     "url": "https://freesound.org/people/kermite607/sounds/362623/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "verb.table.perfect": {
+   "file": "sfx/verb.table.perfect.m4a",
+   "sources": [
+    {
+     "key": "fs373586",
+     "source": "Freesound",
+     "title": "Marimba - F#5 (Marimba_hit_Outrigger_G4_loud_01.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373586/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs447805",
+     "source": "Freesound",
+     "title": "remate_sole\u00e1.wav",
+     "author": "miguelgc96",
+     "url": "https://freesound.org/people/miguelgc96/sounds/447805/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  },
+  "wallet.ding": {
+   "file": "sfx/wallet.ding.m4a",
+   "sources": [
+    {
+     "key": "fs192761",
+     "source": "Freesound",
+     "title": "Ryuuzan_shop_door_bell00.wav",
+     "author": "ryuuzan",
+     "url": "https://freesound.org/people/ryuuzan/sounds/192761/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+     "key": "fs373369",
+     "source": "Freesound",
+     "title": "Glockenspiel - F#6 (glock_medium_G6.wav)",
+     "author": "sgossner",
+     "url": "https://freesound.org/people/sgossner/sounds/373369/",
+     "license": "CC0 1.0 (Creative Commons 0)",
+     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+   ]
+  }
+ }
+}
