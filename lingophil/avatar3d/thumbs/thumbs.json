@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "size": 144,
  "tile": 72,
  "view": {
@@ -20,136 +20,98 @@
  "items": {
   "gorra": {
    "slot": "head",
-   "light": "thumbs/gorra.webp",
-   "lightBytes": 3244,
-   "dark": "thumbs/gorra.dark.webp",
-   "darkBytes": 2962
+   "src": "thumbs/gorra.webp",
+   "bytes": 2788
   },
   "sombrero": {
    "slot": "head",
-   "light": "thumbs/sombrero.webp",
-   "lightBytes": 2698,
-   "dark": "thumbs/sombrero.dark.webp",
-   "darkBytes": 2558
+   "src": "thumbs/sombrero.webp",
+   "bytes": 2306
   },
   "boina": {
    "slot": "head",
-   "light": "thumbs/boina.webp",
-   "lightBytes": 2980,
-   "dark": "thumbs/boina.dark.webp",
-   "darkBytes": 2758
+   "src": "thumbs/boina.webp",
+   "bytes": 2808
   },
   "corona": {
    "slot": "head",
-   "light": "thumbs/corona.webp",
-   "lightBytes": 4210,
-   "dark": "thumbs/corona.dark.webp",
-   "darkBytes": 4060
+   "src": "thumbs/corona.webp",
+   "bytes": 3322
   },
   "camisa": {
    "slot": "body",
-   "light": "thumbs/camisa.webp",
-   "lightBytes": 4376,
-   "dark": "thumbs/camisa.dark.webp",
-   "darkBytes": 4192
+   "src": "thumbs/camisa.webp",
+   "bytes": 4498
   },
   "poncho": {
    "slot": "body",
-   "light": "thumbs/poncho.webp",
-   "lightBytes": 3910,
-   "dark": "thumbs/poncho.dark.webp",
-   "darkBytes": 3672
+   "src": "thumbs/poncho.webp",
+   "bytes": 3806
   },
   "chaqueta": {
    "slot": "body",
-   "light": "thumbs/chaqueta.webp",
-   "lightBytes": 4606,
-   "dark": "thumbs/chaqueta.dark.webp",
-   "darkBytes": 4232
+   "src": "thumbs/chaqueta.webp",
+   "bytes": 4908
   },
   "capa": {
    "slot": "body",
-   "light": "thumbs/capa.webp",
-   "lightBytes": 4650,
-   "dark": "thumbs/capa.dark.webp",
-   "darkBytes": 4600
+   "src": "thumbs/capa.webp",
+   "bytes": 4898
   },
   "sandalias": {
    "slot": "feet",
-   "light": "thumbs/sandalias.webp",
-   "lightBytes": 4294,
-   "dark": "thumbs/sandalias.dark.webp",
-   "darkBytes": 4140
+   "src": "thumbs/sandalias.webp",
+   "bytes": 4156
   },
   "botas": {
    "slot": "feet",
-   "light": "thumbs/botas.webp",
-   "lightBytes": 5078,
-   "dark": "thumbs/botas.dark.webp",
-   "darkBytes": 4932
+   "src": "thumbs/botas.webp",
+   "bytes": 5502
   },
   "botines": {
    "slot": "feet",
-   "light": "thumbs/botines.webp",
-   "lightBytes": 4336,
-   "dark": "thumbs/botines.dark.webp",
-   "darkBytes": 4102
+   "src": "thumbs/botines.webp",
+   "bytes": 4154
   },
   "cuaderno": {
    "slot": "hand",
-   "light": "thumbs/cuaderno.webp",
-   "lightBytes": 4872,
-   "dark": "thumbs/cuaderno.dark.webp",
-   "darkBytes": 4794
+   "src": "thumbs/cuaderno.webp",
+   "bytes": 4188
   },
   "cafe": {
    "slot": "hand",
-   "light": "thumbs/cafe.webp",
-   "lightBytes": 4566,
-   "dark": "thumbs/cafe.dark.webp",
-   "darkBytes": 4586
+   "src": "thumbs/cafe.webp",
+   "bytes": 4270
   },
   "guitarra": {
    "slot": "hand",
-   "light": "thumbs/guitarra.webp",
-   "lightBytes": 4650,
-   "dark": "thumbs/guitarra.dark.webp",
-   "darkBytes": 4444
+   "src": "thumbs/guitarra.webp",
+   "bytes": 4768
   },
   "mapa": {
    "slot": "hand",
-   "light": "thumbs/mapa.webp",
-   "lightBytes": 5582,
-   "dark": "thumbs/mapa.dark.webp",
-   "darkBytes": 5306
+   "src": "thumbs/mapa.webp",
+   "bytes": 3764
   },
   "gato": {
    "slot": "pet",
-   "light": "thumbs/gato.webp",
-   "lightBytes": 5534,
-   "dark": "thumbs/gato.dark.webp",
-   "darkBytes": 5354
+   "src": "thumbs/gato.webp",
+   "bytes": 4908
   },
   "loro": {
    "slot": "pet",
-   "light": "thumbs/loro.webp",
-   "lightBytes": 3826,
-   "dark": "thumbs/loro.dark.webp",
-   "darkBytes": 3628
+   "src": "thumbs/loro.webp",
+   "bytes": 3876
   },
   "llama": {
    "slot": "pet",
-   "light": "thumbs/llama.webp",
-   "lightBytes": 3628,
-   "dark": "thumbs/llama.dark.webp",
-   "darkBytes": 3586
+   "src": "thumbs/llama.webp",
+   "bytes": 3002
   },
   "perro": {
    "slot": "pet",
-   "light": "thumbs/perro.webp",
-   "lightBytes": 5596,
-   "dark": "thumbs/perro.dark.webp",
-   "darkBytes": 5356
+   "src": "thumbs/perro.webp",
+   "bytes": 5292
   }
  }
 }
